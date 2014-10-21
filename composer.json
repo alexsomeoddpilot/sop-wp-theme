@@ -1,0 +1,16 @@
+{
+    "name": "someoddpilot/wp-theme",
+    "description": "A base theme for Wordpress",
+    "authors": [
+        {
+            "name": "alexsomeoddpilot",
+            "email": "alex@someoddpilot.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "someoddpilot\\wptheme\\": "."
+      }
+    }
+}

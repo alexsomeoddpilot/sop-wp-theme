@@ -1,0 +1,6 @@
+{% block content %}
+  {% for post in posts %}
+    <h1>{{ post.title }}</h1>
+    {{ post.content }}
+  {% endfor %}
+{% endblock %}
