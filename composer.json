@@ -1,6 +1,7 @@
 {
     "name": "someoddpilot/wp-theme",
     "description": "A base theme for Wordpress",
+    "license": "MIT",
     "authors": [
         {
             "name": "alexsomeoddpilot",

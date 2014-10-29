@@ -1,4 +1,7 @@
 <?php
+/**
+ * Wordpress functions
+ */
 
 namespace someoddpilot\wptheme;
 
